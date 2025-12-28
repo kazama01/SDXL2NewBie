@@ -1,7 +1,15 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
+*.pdf
+.DS_Store
+extract_pdf.py
+extract_pdf_new.py
+guide_content.txt
+guide_newbie_content.txt
+test_node.py
+
 
 # C extensions
 *.so

@@ -1,0 +1,19 @@
+[project]
+name = "comfyui-sdxl-to-newbie"
+version = "1.0.0"
+description = "A ComfyUI custom node to convert SDXL prompts to NewBie XML format."
+readme = "README.md"
+authors = [
+    { name = "User", email = "user@example.com" }
+]
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/YOUR_USERNAME/SDXL_2_XML"
+# Homepage = "https://github.com/YOUR_USERNAME/SDXL_2_XML"
+
+[tool.comfy]
+PublisherId = "YOUR_PUBLISHER_ID"
+DisplayName = "SDXL 2 XML"
+Icon = ""
